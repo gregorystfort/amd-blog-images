@@ -1,0 +1,16 @@
+# Internal Claude / project files
+CLAUDE.md
+.claude/
+*.claude
+memory/
+plans/
+*-workspace/
+tamika-scott-preview/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
